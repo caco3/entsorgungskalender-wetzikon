@@ -1,1 +1,130 @@
-{"Kreis 1": {"apid": 15371233, "categories": {"Abfall": {"apid": 6570551}, "Biogene Abf\u00e4lle": {"apid": 1343615}, "Karton": {"apid": 3337955}, "H\u00e4ckseldienst": {"apid": 13387214}, "Grubengut": {"apid": 1993665}, "Metall": {"apid": 2292131}, "Papiersammlung": {"apid": 7772360}, "Sonderabfall": {"apid": 13299769}, "Christb\u00e4ume": {"apid": 737692}}}, "Kreis 2": {"apid": 6153176, "categories": {"Abfall": {"apid": 11066413}, "Biogene Abf\u00e4lle": {"apid": 14256533}, "Karton": {"apid": 3196426}, "H\u00e4ckseldienst": {"apid": 11850817}, "Grubengut": {"apid": 10531990}, "Metall": {"apid": 1240817}, "Papiersammlung": {"apid": 815845}, "Sonderabfall": {"apid": 3311361}, "Christb\u00e4ume": {"apid": 14320625}}}, "Kreis 3": {"apid": 14739969, "categories": {"Abfall": {"apid": 8637784}, "Biogene Abf\u00e4lle": {"apid": 9413633}, "Karton": {"apid": 8165260}, "H\u00e4ckseldienst": {"apid": 12460691}, "Grubengut": {"apid": 793300}, "Metall": {"apid": 12639558}, "Papiersammlung": {"apid": 1518902}, "Sonderabfall": {"apid": 6292302}, "Christb\u00e4ume": {"apid": 8106600}}}, "Kreis 4": {"apid": 5199202, "categories": {"Abfall": {"apid": 10360829}, "Biogene Abf\u00e4lle": {"apid": 5862926}, "Karton": {"apid": 2013902}, "H\u00e4ckseldienst": {"apid": 6503446}, "Grubengut": {"apid": 13669829}, "Metall": {"apid": 2677237}, "Papiersammlung": {"apid": 16272043}, "Sonderabfall": {"apid": 10819498}, "Christb\u00e4ume": {"apid": 2507783}}}}
+{
+    "Kreis 1": {
+        "apid": 15371233,
+        "categories": {
+            "Abfall": {
+                "apid": 6570551
+            },
+            "Biogene Abf\u00e4lle": {
+                "apid": 1343615
+            },
+            "Christb\u00e4ume": {
+                "apid": 737692
+            },
+            "Grubengut": {
+                "apid": 1993665
+            },
+            "H\u00e4ckseldienst": {
+                "apid": 13387214
+            },
+            "Karton": {
+                "apid": 3337955
+            },
+            "Metall": {
+                "apid": 2292131
+            },
+            "Papiersammlung": {
+                "apid": 7772360
+            },
+            "Sonderabfall": {
+                "apid": 13299769
+            }
+        }
+    },
+    "Kreis 2": {
+        "apid": 6153176,
+        "categories": {
+            "Abfall": {
+                "apid": 11066413
+            },
+            "Biogene Abf\u00e4lle": {
+                "apid": 14256533
+            },
+            "Christb\u00e4ume": {
+                "apid": 14320625
+            },
+            "Grubengut": {
+                "apid": 10531990
+            },
+            "H\u00e4ckseldienst": {
+                "apid": 11850817
+            },
+            "Karton": {
+                "apid": 3196426
+            },
+            "Metall": {
+                "apid": 1240817
+            },
+            "Papiersammlung": {
+                "apid": 815845
+            },
+            "Sonderabfall": {
+                "apid": 3311361
+            }
+        }
+    },
+    "Kreis 3": {
+        "apid": 14739969,
+        "categories": {
+            "Abfall": {
+                "apid": 8637784
+            },
+            "Biogene Abf\u00e4lle": {
+                "apid": 9413633
+            },
+            "Christb\u00e4ume": {
+                "apid": 8106600
+            },
+            "Grubengut": {
+                "apid": 793300
+            },
+            "H\u00e4ckseldienst": {
+                "apid": 12460691
+            },
+            "Karton": {
+                "apid": 8165260
+            },
+            "Metall": {
+                "apid": 12639558
+            },
+            "Papiersammlung": {
+                "apid": 1518902
+            },
+            "Sonderabfall": {
+                "apid": 6292302
+            }
+        }
+    },
+    "Kreis 4": {
+        "apid": 5199202,
+        "categories": {
+            "Abfall": {
+                "apid": 10360829
+            },
+            "Biogene Abf\u00e4lle": {
+                "apid": 5862926
+            },
+            "Christb\u00e4ume": {
+                "apid": 2507783
+            },
+            "Grubengut": {
+                "apid": 13669829
+            },
+            "H\u00e4ckseldienst": {
+                "apid": 6503446
+            },
+            "Karton": {
+                "apid": 2013902
+            },
+            "Metall": {
+                "apid": 2677237
+            },
+            "Papiersammlung": {
+                "apid": 16272043
+            },
+            "Sonderabfall": {
+                "apid": 10819498
+            }
+        }
+    }
+}

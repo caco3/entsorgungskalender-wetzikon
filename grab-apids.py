@@ -15,15 +15,12 @@ baseApid = 7215088
 districts = ["Kreis 1", "Kreis 2", "Kreis 3", "Kreis 4"]
 categories = ["Abfall", "Biogene Abfälle", "Karton", "Häckseldienst", "Grubengut", "Metall", "Papiersammlung", "Sonderabfall", "Christbäume"]
 
+exportFile = "data/apids.json"
 
-
-logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.DEBUG)
-
-
+logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
 
 
 database = {}
-
 
 
 # get districts
@@ -36,7 +33,7 @@ for link in soup.find_all('a'):
             if district in str(link):
                 # <a href="/index.php?apid=15371233&amp;apparentid=7215088" [..] ><div class="title">Kreis 1</div>
                 apid = str(link).split("apid=")[1].split("&")[0]
-                logging.info("District %r has apid %r" % (district, apid))
+                logging.debug("District %r has apid %r" % (district, apid))
                 database[district] = {}
                 database[district]["apid"] = int(apid)
 
@@ -55,7 +52,7 @@ for district in database:
                 if category in str(link):
                     # <a href="/index.php?apid=15371233&amp;apparentid=7215088" [..] ><div class="title">Kreis 1</div>
                     apid = str(link).split("apid=")[1].split("&")[0]
-                    logging.info("category %r in district %r has apid %r" % (category, district, apid))
+                    logging.debug("category %r in district %r has apid %r" % (category, district, apid))
                     if "categories" not in database[district]:
                         database[district]["categories"] = {}
                     database[district]["categories"][category] = {}
@@ -63,7 +60,9 @@ for district in database:
 
 
 
-pprint(database)
+# pprint(database)
 
-with open("apids.json", mode='w') as f:
-    json.dump(database, f)
+with open(exportFile, mode='w') as f:
+    json.dump(database, f, indent=4, sort_keys=True)
+
+logging.info("Exported apids to %r" % exportFile)
