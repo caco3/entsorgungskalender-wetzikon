@@ -41,7 +41,7 @@ for district in database:
                 logging.debug("Event in %r/%r: %r" % (district, category, date))
 
                 ics = requests.get(domain + "/" + urlIcs).text
-                vevent = "BEGIN:VEVENT" + ics.split("BEGIN:VEVENT")[1].split("END:VEVENT")[0] + "END:VEVENT" # Drop the VCALENDAR header/footer, it is only used per file and not per VEVENT
+                vevent = "BEGIN:VEVENT" + ics.split("BEGIN:VEVENT")[1].split("END:VEVENT")[0] + "END:VEVENT" # We only want to store the VEVENT part, therefore need to drop the VCALENDAR part
                 database[district]["categories"][category]["events"].append({ "date": date, "vevent": vevent})
             # break # Testing
         # break # Testing
@@ -50,6 +50,7 @@ for district in database:
 # pprint(database)
 
 with open(exportFile, mode='w') as f:
-    json.dump(database, f, indent=4, sort_keys=True)
+    # json.dump(database, f, indent=4, sort_keys=True, ensure_ascii=False).encode('utf8')
+    json.dump(database, f, indent=4, sort_keys=True, ensure_ascii=False)
 
 logging.info("Exported database to %r" % exportFile)
