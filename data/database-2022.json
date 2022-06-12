@@ -1,0 +1,1434 @@
+{
+    "Kreis 1": {
+        "apid": 15371233,
+        "categories": {
+            "Abfall": {
+                "apid": 6570551,
+                "events": [
+                    {
+                        "date": "Di, 14. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220614T070000\r\nDTEND:20220614T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055d2c83a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 21. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220621T070000\r\nDTEND:20220621T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055d47ffb\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 28. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220628T070000\r\nDTEND:20220628T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055d6e52a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 05. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220705T070000\r\nDTEND:20220705T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055d8be40\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 12. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220712T070000\r\nDTEND:20220712T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055dae505\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 19. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220719T070000\r\nDTEND:20220719T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055dcf47b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 26. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220726T070000\r\nDTEND:20220726T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231301\r\nUID:62a5055dea9c5\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 02. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220802T070000\r\nDTEND:20220802T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e0b59f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 09. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220809T070000\r\nDTEND:20220809T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e2184e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 16. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220816T070000\r\nDTEND:20220816T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e380f1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 23. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220823T070000\r\nDTEND:20220823T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e53321\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 30. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220830T070000\r\nDTEND:20220830T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e6eeb7\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 06. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220906T070000\r\nDTEND:20220906T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e875d0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 13. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220913T070000\r\nDTEND:20220913T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055e9ffce\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 20. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220920T070000\r\nDTEND:20220920T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055eb47db\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 27. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220927T070000\r\nDTEND:20220927T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055ec819a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 04. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221004T070000\r\nDTEND:20221004T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231302\r\nUID:62a5055ee05bd\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 11. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221011T070000\r\nDTEND:20221011T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f0c222\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 18. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221018T070000\r\nDTEND:20221018T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f21175\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 25. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221025T070000\r\nDTEND:20221025T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f37e76\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 01. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221101T070000\r\nDTEND:20221101T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f4da67\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 08. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221108T070000\r\nDTEND:20221108T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f64d20\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 15. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221115T070000\r\nDTEND:20221115T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f79a26\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 22. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221122T070000\r\nDTEND:20221122T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055f8fc9b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 29. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221129T070000\r\nDTEND:20221129T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055fa4b3f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 06. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221206T070000\r\nDTEND:20221206T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055fb8f97\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 13. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221213T070000\r\nDTEND:20221213T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055fcf37d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 20. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221220T070000\r\nDTEND:20221220T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231303\r\nUID:62a5055fe517d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 27. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221227T070000\r\nDTEND:20221227T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6570551\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560043d2\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Biogene Abfälle": {
+                "apid": 1343615,
+                "events": [
+                    {
+                        "date": "Mi, 15. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220615T070000\r\nDTEND:20220615T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a5056047b7d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 22. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220622T070000\r\nDTEND:20220622T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a505605df5a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 29. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220629T070000\r\nDTEND:20220629T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560736d1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 06. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220706T070000\r\nDTEND:20220706T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a5056089c3e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 13. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220713T070000\r\nDTEND:20220713T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560a21ff\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 20. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220720T070000\r\nDTEND:20220720T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560b740e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 27. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220727T070000\r\nDTEND:20220727T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560cdc52\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 03. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220803T070000\r\nDTEND:20220803T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231304\r\nUID:62a50560e32b0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 10. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220810T070000\r\nDTEND:20220810T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a505610504a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 17. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220817T070000\r\nDTEND:20220817T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a505611d763\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 24. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220824T070000\r\nDTEND:20220824T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561346c3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 31. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220831T070000\r\nDTEND:20220831T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a505614a75b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220907T070000\r\nDTEND:20220907T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561602a2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 14. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220914T070000\r\nDTEND:20220914T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561769c6\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 21. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220921T070000\r\nDTEND:20220921T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a5056193c8f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 28. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220928T070000\r\nDTEND:20220928T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561ab3d7\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 05. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221005T070000\r\nDTEND:20221005T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561c1785\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 12. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221012T070000\r\nDTEND:20221012T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561d95ec\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 19. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221019T070000\r\nDTEND:20221019T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231305\r\nUID:62a50561f0030\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 26. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221026T070000\r\nDTEND:20221026T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a5056211209\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 02. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221102T070000\r\nDTEND:20221102T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a5056227414\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 09. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221109T070000\r\nDTEND:20221109T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a505623ba29\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 16. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221116T070000\r\nDTEND:20221116T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a5056251311\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 23. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221123T070000\r\nDTEND:20221123T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a505626783b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 30. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221130T070000\r\nDTEND:20221130T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a505627d395\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221207T070000\r\nDTEND:20221207T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a5056296737\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 21. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221221T070000\r\nDTEND:20221221T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1343615\r\nGEO:\r\nDTSTAMP:20220611T231306\r\nUID:62a50562ac9ce\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Christbäume": {
+                "apid": 737692,
+                "events": []
+            },
+            "Grubengut": {
+                "apid": 1993665,
+                "events": [
+                    {
+                        "date": "Di, 11. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Grubengut\r\nDESCRIPTION:Glasscheiben\\, Spiegel\\, Trinkgläser\\, Steine\\, Beton\\, Gartenplatten\\, Geschirr\\, Tontöpfe\r\nDTSTART:20221011T070000\r\nDTEND:20221011T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1993665\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a505633030b\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Häckseldienst": {
+                "apid": 13387214,
+                "events": [
+                    {
+                        "date": "Mi, 17. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220817T070000\r\nDTEND:20220817T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13387214\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a505637802e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220907T070000\r\nDTEND:20220907T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13387214\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a505638eb78\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 28. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220928T070000\r\nDTEND:20220928T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13387214\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a50563a4cab\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 19. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20221019T070000\r\nDTEND:20221019T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13387214\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a50563ba5d2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 09. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20221109T070000\r\nDTEND:20221109T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13387214\r\nGEO:\r\nDTSTAMP:20220611T231307\r\nUID:62a50563d1b31\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Karton": {
+                "apid": 3337955,
+                "events": [
+                    {
+                        "date": "Fr, 08. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220708T070000\r\nDTEND:20220708T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a5056422bf3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 12. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220812T070000\r\nDTEND:20220812T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a5056438a93\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 09. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220909T070000\r\nDTEND:20220909T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a505644d416\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 14. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221014T070000\r\nDTEND:20221014T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a50564630ac\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 11. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221111T070000\r\nDTEND:20221111T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a5056479a5d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 09. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221209T070000\r\nDTEND:20221209T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3337955\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a5056490592\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Metall": {
+                "apid": 2292131,
+                "events": [
+                    {
+                        "date": "Di, 20. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 1\\, Metall\r\nDESCRIPTION:\r\nDTSTART:20220920T070000\r\nDTEND:20220920T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2292131\r\nGEO:\r\nDTSTAMP:20220611T231308\r\nUID:62a50564d3d98\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Papiersammlung": {
+                "apid": 7772360,
+                "events": [
+                    {
+                        "date": "Sa, 02. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220702T070000\r\nDTEND:20220702T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=7772360\r\nGEO:\r\nDTSTAMP:20220611T231309\r\nUID:62a505652e890\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 13. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220813T070000\r\nDTEND:20220813T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=7772360\r\nGEO:\r\nDTSTAMP:20220611T231309\r\nUID:62a5056543925\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 24. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220924T070000\r\nDTEND:20220924T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=7772360\r\nGEO:\r\nDTSTAMP:20220611T231309\r\nUID:62a5056557607\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 05. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221105T070000\r\nDTEND:20221105T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=7772360\r\nGEO:\r\nDTSTAMP:20220611T231309\r\nUID:62a505656b517\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 17. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221217T070000\r\nDTEND:20221217T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=7772360\r\nGEO:\r\nDTSTAMP:20220611T231309\r\nUID:62a5056581304\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Sonderabfall": {
+                "apid": 13299769,
+                "events": [
+                    {
+                        "date": "Di, 13. Sep. 2022, 13:00 - 16:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20220913T130000\r\nDTEND:20220913T163000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13299769\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231309\r\nUID:62a50565ebe6f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 26. Nov. 2022, 08:00 - 11:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20221126T080000\r\nDTEND:20221126T113000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13299769\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231310\r\nUID:62a505660d2e4\r\nEND:VEVENT"
+                    }
+                ]
+            }
+        }
+    },
+    "Kreis 2": {
+        "apid": 6153176,
+        "categories": {
+            "Abfall": {
+                "apid": 11066413,
+                "events": [
+                    {
+                        "date": "Mi, 15. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220615T070000\r\nDTEND:20220615T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a505664ec8c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 22. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220622T070000\r\nDTEND:20220622T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566649a3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 29. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220629T070000\r\nDTEND:20220629T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a505667acc8\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 06. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220706T070000\r\nDTEND:20220706T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566905a1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 13. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220713T070000\r\nDTEND:20220713T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566a5e79\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 20. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220720T070000\r\nDTEND:20220720T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566bbdec\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 27. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220727T070000\r\nDTEND:20220727T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566d2147\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 03. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220803T070000\r\nDTEND:20220803T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231310\r\nUID:62a50566e5a1a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 10. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220810T070000\r\nDTEND:20220810T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a505670865f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 17. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220817T070000\r\nDTEND:20220817T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a505671e187\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 24. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220824T070000\r\nDTEND:20220824T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567376b3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 31. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220831T070000\r\nDTEND:20220831T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a505674cc64\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220907T070000\r\nDTEND:20220907T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567625a8\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 14. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220914T070000\r\nDTEND:20220914T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567759d1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 21. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220921T070000\r\nDTEND:20220921T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a505678a62c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 28. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220928T070000\r\nDTEND:20220928T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a505679f23d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 05. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221005T070000\r\nDTEND:20221005T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567b5697\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 12. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221012T070000\r\nDTEND:20221012T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567cbb62\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 19. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221019T070000\r\nDTEND:20221019T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231311\r\nUID:62a50567e3a13\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 26. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221026T070000\r\nDTEND:20221026T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a505680d133\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 02. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221102T070000\r\nDTEND:20221102T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a5056825448\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 09. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221109T070000\r\nDTEND:20221109T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a505683f63b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 16. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221116T070000\r\nDTEND:20221116T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a5056856bdc\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 23. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221123T070000\r\nDTEND:20221123T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a505686d8be\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 30. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221130T070000\r\nDTEND:20221130T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a5056883811\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221207T070000\r\nDTEND:20221207T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a505689a442\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 14. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221214T070000\r\nDTEND:20221214T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a50568afee8\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 21. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221221T070000\r\nDTEND:20221221T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a50568ca88d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 28. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221228T070000\r\nDTEND:20221228T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11066413\r\nGEO:\r\nDTSTAMP:20220611T231312\r\nUID:62a50568dfe28\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Biogene Abfälle": {
+                "apid": 14256533,
+                "events": [
+                    {
+                        "date": "Do, 16. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220616T070000\r\nDTEND:20220616T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a5056939d0f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 23. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220623T070000\r\nDTEND:20220623T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a5056951098\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 30. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220630T070000\r\nDTEND:20220630T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a50569670e0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 07. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220707T070000\r\nDTEND:20220707T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a505697c6e5\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 14. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220714T070000\r\nDTEND:20220714T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a5056991c35\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 21. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220721T070000\r\nDTEND:20220721T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a50569a7ad4\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 28. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220728T070000\r\nDTEND:20220728T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a50569bd697\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 04. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220804T070000\r\nDTEND:20220804T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a50569d2eeb\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 11. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220811T070000\r\nDTEND:20220811T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231313\r\nUID:62a50569eaf38\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 18. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220818T070000\r\nDTEND:20220818T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a0cac5\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 25. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220825T070000\r\nDTEND:20220825T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a222f3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 01. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220901T070000\r\nDTEND:20220901T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a37082\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 08. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220908T070000\r\nDTEND:20220908T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a4e649\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 15. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220915T070000\r\nDTEND:20220915T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a643df\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 22. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220922T070000\r\nDTEND:20220922T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056a795a2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 29. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220929T070000\r\nDTEND:20220929T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056aa31a7\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 06. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221006T070000\r\nDTEND:20221006T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056aba581\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 13. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221013T070000\r\nDTEND:20221013T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056acf7e3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 20. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221020T070000\r\nDTEND:20221020T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231314\r\nUID:62a5056ae497e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 27. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221027T070000\r\nDTEND:20221027T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b0585b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 03. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221103T070000\r\nDTEND:20221103T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b1af54\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 10. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221110T070000\r\nDTEND:20221110T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b3127e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 17. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221117T070000\r\nDTEND:20221117T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b45c49\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 24. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221124T070000\r\nDTEND:20221124T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b5b095\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 01. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221201T070000\r\nDTEND:20221201T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b719c6\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 08. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221208T070000\r\nDTEND:20221208T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056b87ab3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 22. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221222T070000\r\nDTEND:20221222T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=14256533\r\nGEO:\r\nDTSTAMP:20220611T231315\r\nUID:62a5056ba2985\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Christbäume": {
+                "apid": 14320625,
+                "events": []
+            },
+            "Grubengut": {
+                "apid": 10531990,
+                "events": [
+                    {
+                        "date": "Di, 11. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Grubengut\r\nDESCRIPTION:Glasscheiben\\, Spiegel\\, Trinkgläser\\, Steine\\, Beton\\, Gartenplatten\\, Geschirr\\, Tontöpfe\r\nDTSTART:20221011T070000\r\nDTEND:20221011T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10531990\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056c1b97d\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Häckseldienst": {
+                "apid": 11850817,
+                "events": [
+                    {
+                        "date": "Mi, 17. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220817T070000\r\nDTEND:20220817T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11850817\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056c5e181\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 07. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220907T070000\r\nDTEND:20220907T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11850817\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056c75970\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 28. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220928T070000\r\nDTEND:20220928T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11850817\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056c8b6ba\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 19. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20221019T070000\r\nDTEND:20221019T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11850817\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056ca2033\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 09. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20221109T070000\r\nDTEND:20221109T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=11850817\r\nGEO:\r\nDTSTAMP:20220611T231316\r\nUID:62a5056cb685e\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Karton": {
+                "apid": 3196426,
+                "events": [
+                    {
+                        "date": "Fr, 17. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220617T070000\r\nDTEND:20220617T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d13990\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 15. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220715T070000\r\nDTEND:20220715T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d29936\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 19. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220819T070000\r\nDTEND:20220819T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d3ea03\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 16. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220916T070000\r\nDTEND:20220916T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d55a43\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 21. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221021T070000\r\nDTEND:20221021T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d6b851\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 18. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221118T070000\r\nDTEND:20221118T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d81668\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 16. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221216T070000\r\nDTEND:20221216T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3196426\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056d97c2b\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Metall": {
+                "apid": 1240817,
+                "events": [
+                    {
+                        "date": "Di, 20. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 2\\, Metall\r\nDESCRIPTION:\r\nDTSTART:20220920T070000\r\nDTEND:20220920T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1240817\r\nGEO:\r\nDTSTAMP:20220611T231317\r\nUID:62a5056dd7a4d\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Papiersammlung": {
+                "apid": 815845,
+                "events": [
+                    {
+                        "date": "Sa, 02. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220702T070000\r\nDTEND:20220702T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=815845\r\nGEO:\r\nDTSTAMP:20220611T231318\r\nUID:62a5056e25a95\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 13. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220813T070000\r\nDTEND:20220813T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=815845\r\nGEO:\r\nDTSTAMP:20220611T231318\r\nUID:62a5056e39b85\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 24. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220924T070000\r\nDTEND:20220924T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=815845\r\nGEO:\r\nDTSTAMP:20220611T231318\r\nUID:62a5056e537ce\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 05. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221105T070000\r\nDTEND:20221105T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=815845\r\nGEO:\r\nDTSTAMP:20220611T231318\r\nUID:62a5056e6a80e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 17. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221217T070000\r\nDTEND:20221217T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=815845\r\nGEO:\r\nDTSTAMP:20220611T231318\r\nUID:62a5056e80a49\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Sonderabfall": {
+                "apid": 3311361,
+                "events": [
+                    {
+                        "date": "Di, 13. Sep. 2022, 13:00 - 16:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20220913T130000\r\nDTEND:20220913T163000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3311361\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231318\r\nUID:62a5056ec2e14\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 26. Nov. 2022, 08:00 - 11:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20221126T080000\r\nDTEND:20221126T113000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=3311361\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231318\r\nUID:62a5056ed9607\r\nEND:VEVENT"
+                    }
+                ]
+            }
+        }
+    },
+    "Kreis 3": {
+        "apid": 14739969,
+        "categories": {
+            "Abfall": {
+                "apid": 8637784,
+                "events": [
+                    {
+                        "date": "Do, 16. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220616T070000\r\nDTEND:20220616T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f29248\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 23. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220623T070000\r\nDTEND:20220623T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f3f1b3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 30. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220630T070000\r\nDTEND:20220630T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f54ac9\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 07. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220707T070000\r\nDTEND:20220707T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f6acd1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 14. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220714T070000\r\nDTEND:20220714T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f804ef\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 21. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220721T070000\r\nDTEND:20220721T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056f95f0f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 28. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220728T070000\r\nDTEND:20220728T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056fab362\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 04. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220804T070000\r\nDTEND:20220804T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056fc1a4b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 11. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220811T070000\r\nDTEND:20220811T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056fd7a87\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 18. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220818T070000\r\nDTEND:20220818T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231319\r\nUID:62a5056fec7f4\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 25. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220825T070000\r\nDTEND:20220825T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a505700f3ac\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 01. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220901T070000\r\nDTEND:20220901T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a50570258ad\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 08. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220908T070000\r\nDTEND:20220908T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a505703bdf3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 15. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220915T070000\r\nDTEND:20220915T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a505704f45c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 22. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220922T070000\r\nDTEND:20220922T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a5057064272\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 29. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220929T070000\r\nDTEND:20220929T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a5057077a2e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 06. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221006T070000\r\nDTEND:20221006T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a505708f0cf\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 13. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221013T070000\r\nDTEND:20221013T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a50570a4d9b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 20. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221020T070000\r\nDTEND:20221020T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a50570bb1ac\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 27. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221027T070000\r\nDTEND:20221027T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a50570d063d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 03. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221103T070000\r\nDTEND:20221103T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231320\r\nUID:62a50570e76d3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 10. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221110T070000\r\nDTEND:20221110T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a50571084bb\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 17. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221117T070000\r\nDTEND:20221117T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a505711ed6c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 24. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221124T070000\r\nDTEND:20221124T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a5057135306\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 01. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221201T070000\r\nDTEND:20221201T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a505714a98b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 08. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221208T070000\r\nDTEND:20221208T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a50571642a0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 15. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221215T070000\r\nDTEND:20221215T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a505717a095\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 22. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221222T070000\r\nDTEND:20221222T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a50571904c0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 29. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221229T070000\r\nDTEND:20221229T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8637784\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a50571a66e4\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Biogene Abfälle": {
+                "apid": 9413633,
+                "events": [
+                    {
+                        "date": "Mo, 13. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220613T070000\r\nDTEND:20220613T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231321\r\nUID:62a50571ef447\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 20. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220620T070000\r\nDTEND:20220620T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a5057212d64\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 27. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220627T070000\r\nDTEND:20220627T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a50572295ae\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 04. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220704T070000\r\nDTEND:20220704T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a5057240e15\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 11. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220711T070000\r\nDTEND:20220711T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a5057256c0b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 18. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220718T070000\r\nDTEND:20220718T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a505726db9d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 25. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220725T070000\r\nDTEND:20220725T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a5057284ef2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 03. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220803T070000\r\nDTEND:20220803T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a505729b8ab\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 08. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220808T070000\r\nDTEND:20220808T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a50572b3f55\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 15. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220815T070000\r\nDTEND:20220815T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a50572c9651\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 22. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220822T070000\r\nDTEND:20220822T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231322\r\nUID:62a50572dfbda\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 29. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220829T070000\r\nDTEND:20220829T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a5057300179\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220905T070000\r\nDTEND:20220905T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a5057316010\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 12. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220912T070000\r\nDTEND:20220912T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a505732b9bb\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220919T070000\r\nDTEND:20220919T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a5057342877\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 26. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220926T070000\r\nDTEND:20220926T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a5057358350\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 03. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221003T070000\r\nDTEND:20221003T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a505736f588\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 10. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221010T070000\r\nDTEND:20221010T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a5057385fa0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 17. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221017T070000\r\nDTEND:20221017T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a505739b654\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 24. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221024T070000\r\nDTEND:20221024T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a50573b24d3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 31. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221031T070000\r\nDTEND:20221031T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a50573c83ef\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 07. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221107T070000\r\nDTEND:20221107T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231323\r\nUID:62a50573de3c3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 14. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221114T070000\r\nDTEND:20221114T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a5057400559\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 21. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221121T070000\r\nDTEND:20221121T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a5057416fc9\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 28. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221128T070000\r\nDTEND:20221128T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a505742d236\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221205T070000\r\nDTEND:20221205T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a5057443e62\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221219T070000\r\nDTEND:20221219T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=9413633\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a5057459c27\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Christbäume": {
+                "apid": 8106600,
+                "events": []
+            },
+            "Grubengut": {
+                "apid": 793300,
+                "events": [
+                    {
+                        "date": "Mi, 12. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Grubengut\r\nDESCRIPTION:Glasscheiben\\, Spiegel\\, Trinkgläser\\, Steine\\, Beton\\, Gartenplatten\\, Geschirr\\, Tontöpfe\r\nDTSTART:20221012T070000\r\nDTEND:20221012T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=793300\r\nGEO:\r\nDTSTAMP:20220611T231324\r\nUID:62a50574bfc36\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Häckseldienst": {
+                "apid": 12460691,
+                "events": [
+                    {
+                        "date": "Mi, 15. Jun. 2022, 15:40",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220615T154000\r\nDTEND:20220615T154000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a5057511206\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 24. Aug. 2022, 15:40",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220824T154000\r\nDTEND:20220824T154000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a50575285cf\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 14. Sep. 2022, 15:40",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20220914T154000\r\nDTEND:20220914T154000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a505753e6e3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 05. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20221005T070000\r\nDTEND:20221005T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a5057555831\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 26. Okt. 2022, 15:40",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20221026T154000\r\nDTEND:20221026T154000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a505756bbd3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 16. Nov. 2022, 15:40",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur nach Voranmeldung über...\r\nDTSTART:20221116T154000\r\nDTEND:20221116T154000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12460691\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a50575824a9\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Karton": {
+                "apid": 8165260,
+                "events": [
+                    {
+                        "date": "Fr, 24. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220624T070000\r\nDTEND:20220624T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a50575c2323\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 22. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220722T070000\r\nDTEND:20220722T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a50575d7e0a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 26. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220826T070000\r\nDTEND:20220826T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231325\r\nUID:62a50575ee785\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 23. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220923T070000\r\nDTEND:20220923T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a505761203c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 28. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221028T070000\r\nDTEND:20221028T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a5057627eaa\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 25. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221125T070000\r\nDTEND:20221125T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a505763e808\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 30. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221230T070000\r\nDTEND:20221230T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=8165260\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a5057654d2a\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Metall": {
+                "apid": 12639558,
+                "events": [
+                    {
+                        "date": "Mi, 21. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 3\\, Metall\r\nDESCRIPTION:\r\nDTSTART:20220921T070000\r\nDTEND:20220921T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=12639558\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a5057695669\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Papiersammlung": {
+                "apid": 1518902,
+                "events": [
+                    {
+                        "date": "Sa, 02. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220702T070000\r\nDTEND:20220702T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1518902\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a50576de3fb\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 13. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220813T070000\r\nDTEND:20220813T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1518902\r\nGEO:\r\nDTSTAMP:20220611T231326\r\nUID:62a50576f2cf3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 24. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220924T070000\r\nDTEND:20220924T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1518902\r\nGEO:\r\nDTSTAMP:20220611T231327\r\nUID:62a5057715306\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 05. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221105T070000\r\nDTEND:20221105T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1518902\r\nGEO:\r\nDTSTAMP:20220611T231327\r\nUID:62a505772a78a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 17. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221217T070000\r\nDTEND:20221217T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=1518902\r\nGEO:\r\nDTSTAMP:20220611T231327\r\nUID:62a50577400b0\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Sonderabfall": {
+                "apid": 6292302,
+                "events": [
+                    {
+                        "date": "Di, 13. Sep. 2022, 13:00 - 16:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20220913T130000\r\nDTEND:20220913T163000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6292302\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231327\r\nUID:62a505778262b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 26. Sep. 2022, 08:00 - 11:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20220926T080000\r\nDTEND:20220926T113000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6292302\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231327\r\nUID:62a505779837a\r\nEND:VEVENT"
+                    }
+                ]
+            }
+        }
+    },
+    "Kreis 4": {
+        "apid": 5199202,
+        "categories": {
+            "Abfall": {
+                "apid": 10360829,
+                "events": [
+                    {
+                        "date": "Mo, 13. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220613T070000\r\nDTEND:20220613T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231327\r\nUID:62a50577dcc98\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 20. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220620T070000\r\nDTEND:20220620T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231327\r\nUID:62a50577f3334\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 27. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220627T070000\r\nDTEND:20220627T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a5057815a49\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 04. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220704T070000\r\nDTEND:20220704T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a505782b1cd\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 11. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220711T070000\r\nDTEND:20220711T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a5057841e33\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 18. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220718T070000\r\nDTEND:20220718T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a50578570d7\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 25. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220725T070000\r\nDTEND:20220725T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a505786d652\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 02. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220802T070000\r\nDTEND:20220802T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a5057883a14\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 08. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220808T070000\r\nDTEND:20220808T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a505789f05b\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 15. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220815T070000\r\nDTEND:20220815T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a50578b648a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 22. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220822T070000\r\nDTEND:20220822T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a50578d0b03\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 29. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220829T070000\r\nDTEND:20220829T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231328\r\nUID:62a50578e6914\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220905T070000\r\nDTEND:20220905T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a5057906ff6\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 12. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220912T070000\r\nDTEND:20220912T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a505791ae8e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220919T070000\r\nDTEND:20220919T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a5057930853\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 26. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20220926T070000\r\nDTEND:20220926T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a5057945638\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 03. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221003T070000\r\nDTEND:20221003T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a505795b2b2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 10. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221010T070000\r\nDTEND:20221010T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a5057970a8e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 17. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221017T070000\r\nDTEND:20221017T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a5057985680\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 24. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221024T070000\r\nDTEND:20221024T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a505799a8a8\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 31. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221031T070000\r\nDTEND:20221031T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a50579afbc4\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 07. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221107T070000\r\nDTEND:20221107T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a50579c551a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 14. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221114T070000\r\nDTEND:20221114T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a50579dacaf\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 21. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221121T070000\r\nDTEND:20221121T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231329\r\nUID:62a50579f0b01\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 28. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221128T070000\r\nDTEND:20221128T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057a11be3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221205T070000\r\nDTEND:20221205T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057a26d23\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 12. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221212T070000\r\nDTEND:20221212T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057a3bea7\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221219T070000\r\nDTEND:20221219T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057a51aa3\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Di, 27. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Abfall\r\nDESCRIPTION:In den Abfall gehören brennbare\\, nicht wiederverwertbare Siedlungsabfälle. Für den Abfall dürfen nur die gelben \"Wetziker-Gebührenkehrichtsäcke\" verwendet werden. Bitte am gelb markierten Sammelpunkt...\r\nDTSTART:20221227T070000\r\nDTEND:20221227T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10360829\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057a671f1\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Biogene Abfälle": {
+                "apid": 5862926,
+                "events": [
+                    {
+                        "date": "Mo, 13. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220613T070000\r\nDTEND:20220613T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057aa6699\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 20. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220620T070000\r\nDTEND:20220620T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057abbeb6\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 27. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220627T070000\r\nDTEND:20220627T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057ad2488\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 04. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220704T070000\r\nDTEND:20220704T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231330\r\nUID:62a5057ae9ff4\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 11. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220711T070000\r\nDTEND:20220711T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b0bcb5\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 18. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220718T070000\r\nDTEND:20220718T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b2161d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 25. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220725T070000\r\nDTEND:20220725T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b37a6a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Do, 04. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220804T070000\r\nDTEND:20220804T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b4b7d1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 08. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220808T070000\r\nDTEND:20220808T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b5fd7f\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 15. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220815T070000\r\nDTEND:20220815T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b74c5d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 22. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220822T070000\r\nDTEND:20220822T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057b8b037\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 29. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220829T070000\r\nDTEND:20220829T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057ba0785\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220905T070000\r\nDTEND:20220905T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057bb54c2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 12. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220912T070000\r\nDTEND:20220912T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057bca410\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220919T070000\r\nDTEND:20220919T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231331\r\nUID:62a5057bdf9f1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 26. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20220926T070000\r\nDTEND:20220926T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c01410\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 03. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221003T070000\r\nDTEND:20221003T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c16c65\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 10. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221010T070000\r\nDTEND:20221010T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c2cc55\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 17. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221017T070000\r\nDTEND:20221017T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c43268\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 24. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221024T070000\r\nDTEND:20221024T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c5a8a1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 31. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221031T070000\r\nDTEND:20221031T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c6fa0c\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 07. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221107T070000\r\nDTEND:20221107T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c85365\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 14. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221114T070000\r\nDTEND:20221114T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057c9ac85\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 21. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221121T070000\r\nDTEND:20221121T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057cb054d\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 28. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221128T070000\r\nDTEND:20221128T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057cc67a2\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 05. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221205T070000\r\nDTEND:20221205T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231332\r\nUID:62a5057cddb72\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mo, 19. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Biogene Abfälle\r\nDESCRIPTION:Was sind \"biogene Abfälle\"? Pflanzlicher Gartenabfall\\, Balkon- und Topfpflanzen ohne Erde\\, Rüstabfälle\\, Speisereste aus dem Haushalt (gekocht und ungekocht)\\, Milchprodukte\\, Stroh\\, Heu\\, Sägemehl\\,...\r\nDTSTART:20221219T070000\r\nDTEND:20221219T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=5862926\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057d003f9\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Christbäume": {
+                "apid": 2507783,
+                "events": []
+            },
+            "Grubengut": {
+                "apid": 13669829,
+                "events": [
+                    {
+                        "date": "Mi, 12. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Grubengut\r\nDESCRIPTION:Glasscheiben\\, Spiegel\\, Trinkgläser\\, Steine\\, Beton\\, Gartenplatten\\, Geschirr\\, Tontöpfe\r\nDTSTART:20221012T070000\r\nDTEND:20221012T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=13669829\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057d6a78b\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Häckseldienst": {
+                "apid": 6503446,
+                "events": [
+                    {
+                        "date": "Mi, 15. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220615T070000\r\nDTEND:20220615T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057dab512\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 24. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220824T070000\r\nDTEND:20220824T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057dc109a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 14. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20220914T070000\r\nDTEND:20220914T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057dd7c9a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 05. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20221005T070000\r\nDTEND:20221005T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231333\r\nUID:62a5057dedc77\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 26. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20221026T070000\r\nDTEND:20221026T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057e1f882\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Mi, 16. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Häckseldienst\r\nDESCRIPTION:Zur Verkleinerung von Baum- und Strauchschnitt. Die Äste dürfen eine maximale Dicke von 8 cm nicht überschreiten. Maximale Häckselzeit: 60 min bzw. 10 m3. Wichtig: Möglich nur gegen Voranmeldung über...\r\nDTSTART:20221116T070000\r\nDTEND:20221116T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=6503446\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057e37bc0\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Karton": {
+                "apid": 2013902,
+                "events": [
+                    {
+                        "date": "Fr, 24. Jun. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220624T070000\r\nDTEND:20220624T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057e869de\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 22. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220722T070000\r\nDTEND:20220722T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057e9c6b1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 26. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220826T070000\r\nDTEND:20220826T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057eb2f2a\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 23. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20220923T070000\r\nDTEND:20220923T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057ec9aa4\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 28. Okt. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221028T070000\r\nDTEND:20221028T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231334\r\nUID:62a5057ee156e\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 25. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221125T070000\r\nDTEND:20221125T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057f02a17\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Fr, 30. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Karton\r\nDESCRIPTION:Bitte den Karton am Abfuhrtag bis 07.00 Uhr gebündelt oder in 800-Liter-Normcontainern bereitstellen. Mit Kunststoff oder Aluminium beschichteter Karton\\, wie zum Beispiel Milch- oder...\r\nDTSTART:20221230T070000\r\nDTEND:20221230T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2013902\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057f18e4b\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Metall": {
+                "apid": 2677237,
+                "events": [
+                    {
+                        "date": "Mi, 21. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Kreis 4\\, Metall\r\nDESCRIPTION:\r\nDTSTART:20220921T070000\r\nDTEND:20220921T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=2677237\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057f5caef\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Papiersammlung": {
+                "apid": 16272043,
+                "events": [
+                    {
+                        "date": "Sa, 02. Jul. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220702T070000\r\nDTEND:20220702T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=16272043\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057fa5c70\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 13. Aug. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220813T070000\r\nDTEND:20220813T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=16272043\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057fb92b8\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 24. Sep. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20220924T070000\r\nDTEND:20220924T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=16272043\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057fce6b1\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 05. Nov. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221105T070000\r\nDTEND:20221105T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=16272043\r\nGEO:\r\nDTSTAMP:20220611T231335\r\nUID:62a5057fe4482\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 17. Dez. 2022, 07:00",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Papiersammlung\r\nDESCRIPTION:Das Papier muss am Sammeltag bis spätestens 08.00 Uhr gebündelt (nicht in Papiertragtaschen) an den Abfallsammelpunkten oder beim Containerplatz bereitgestellt werden. In die Papiersammlung gehört nur...\r\nDTSTART:20221217T070000\r\nDTEND:20221217T070000\r\nLOCATION:\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=16272043\r\nGEO:\r\nDTSTAMP:20220611T231336\r\nUID:62a5058008838\r\nEND:VEVENT"
+                    }
+                ]
+            },
+            "Sonderabfall": {
+                "apid": 10819498,
+                "events": [
+                    {
+                        "date": "Di, 13. Sep. 2022, 13:00 - 16:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20220913T130000\r\nDTEND:20220913T163000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10819498\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231336\r\nUID:62a505807f5e0\r\nEND:VEVENT"
+                    },
+                    {
+                        "date": "Sa, 26. Nov. 2022, 08:00 - 11:30h",
+                        "vevent": "BEGIN:VEVENT\r\nSUMMARY:Sonderabfall\r\nDESCRIPTION:Sonderabfall-Mobil bei der Hauptsammelstelle Kempten.Bitte beachten Sie die Anwesenheitszeiten des Sonderabfall-Mobils.Sonderabfälle sind z. B. Farben\\, Lacke\\, Lösungsmittel\\, Chemikalien\\,...\r\nDTSTART:20221126T080000\r\nDTEND:20221126T113000\r\nLOCATION:Hauptsammelstelle Kempten\\, Stationsstrasse 19\\, 8623 Wetzikon\r\nURL;VALUE=URI:https://m.wetzikon.ch/index.php?apid=10819498\r\nGEO:47.3318851000;8.8046484000\r\nDTSTAMP:20220611T231336\r\nUID:62a50580979a2\r\nEND:VEVENT"
+                    }
+                ]
+            }
+        }
+    }
+}
