@@ -10,46 +10,11 @@
  *  - categories:
       type: string
       values: List of comma separated values
-      possible values:
-      "Abfall", "Biogene Abfälle", "Christbäume", "Grubengut", "Häckseldienst", "Karton", "Metall", "Papiersammlung", "Sonderabfall"
-//        - abfall
-//        - bio
-//        - karton
-//        - häcksel
-//        - grubengut
-//        - metall
-//        - papier
-//        - sonder
-//        - christbaum
+      possible values: "Abfall", "Biogene Abfälle", "Christbäume", "Grubengut", "Häckseldienst", "Karton", "Metall", "Papiersammlung", "Sonderabfall"
  */
- 
- 
- 
- 
- $max_district_id = 4; 
- $available_categories = ["Abfall", "Biogene Abfälle", "Christbäume", "Grubengut", "Häckseldienst", "Karton", "Metall", "Papiersammlung", "Sonderabfall"];
- 
- // TODO use server variable  
- $database_file = "data/database.json";
-  
-  
-  $ics_header = <<<EOD
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//hacksw/handcal//NONSGML v1.0//EN
-CALSCALE:GREGORIAN
-EOD;
 
-  $ics_footer = <<<EOD
-END:VCALENDAR
-EOD;
-  
+ include("common.php");
  
- 
- ini_set('display_errors', 1);
- ini_set('display_startup_errors', 1);
- error_reporting(E_ALL);
-
  
  
  function parse_input() {
