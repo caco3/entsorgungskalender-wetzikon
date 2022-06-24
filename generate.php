@@ -136,4 +136,8 @@
         allowTransparency="true" scrolling="no" 
         frameborder="0" height="400px" width="100%"></iframe>
     <p>Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
+
+    <form>
+        <input type="button" value="Zurück" class=button onclick="history.back()">
+    </form>
 </body>
