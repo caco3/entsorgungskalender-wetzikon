@@ -1,0 +1,10 @@
+{
+  "url": "https://smarter-entsorgungskalender-wetzikon.ruinelli.ch/calendar.php?district=1&categories=Abfall,Biogene%20Abf%C3%A4lle,Christb%C3%A4ume,Grubengut,H%C3%A4ckseldienst,Karton,Metall,Papiersammlung,Sonderabfall",
+  "title": "Smarter Entsorgungskalender für Wetzikon",
+  "language": "de",
+  "target": "_blank",
+  "tabs": [
+    "month",
+    "agenda"
+  ]
+} 

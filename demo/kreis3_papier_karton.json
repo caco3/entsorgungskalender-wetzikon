@@ -1,0 +1,10 @@
+{
+  "url": "https://smarter-entsorgungskalender-wetzikon.ruinelli.ch/calendar.php?district=3&categories=Karton,Papiersammlung",
+  "title": "Smarter Entsorgungskalender für Wetzikon",
+  "language": "de",
+  "target": "_blank",
+  "tabs": [
+    "month",
+    "agenda"
+  ]
+} 
