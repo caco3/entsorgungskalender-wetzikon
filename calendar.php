@@ -30,8 +30,7 @@
  $available_categories = ["Abfall", "Biogene Abfälle", "Christbäume", "Grubengut", "Häckseldienst", "Karton", "Metall", "Papiersammlung", "Sonderabfall"];
  
  // TODO use server variable  
-//  $base_url = "https://smarter-entsorgungskalender-wetzikon.ruinelli.ch/calendar.php";
-  $database_file = "data/database.json";
+ $database_file = "data/database.json";
   
   
   $ics_header = <<<EOD
