@@ -22,15 +22,15 @@
                 $district = $_GET["district"];
             }
             else {
-                throw new Exception('Invalid district data!');
+                throw new Exception('Ung&uuml;ltiger Kreis ausgew&auml;hlt!');
             }
         }
         else {
-            throw new Exception('No district given!');
+            throw new Exception('Kein Kreis ausgewählt!');
         }
         
         if ($district == null) {
-            throw new Exception('District not valid!');
+            throw new Exception('Ung&uuml;ltiger Kreis ausgew&auml;hlt!');
         }
 
         
@@ -44,7 +44,7 @@
         }
             
         if (count($categories) == 0) {
-            throw new Exception('No categories given!');
+            throw new Exception('Keine Kategorie ausgewählt!');
         }
 
         return ["district" => $district, "categories" => $categories];
@@ -92,7 +92,7 @@
         $input = parse_input();
     }
     catch (Exception $e) {
-        echo("Es ist ein Problem aufgetreten: " . $e->getMessage());
+        echo("<p>Es ist ein Problem aufgetreten: <b>" . $e->getMessage() . "</b></p>");
         exit();
     }
     ?>
