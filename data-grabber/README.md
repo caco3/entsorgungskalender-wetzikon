@@ -10,4 +10,4 @@ provided tools:
 
 The categories 'Sonderabfall', 'Papier' and 'Schleifservice' are common to all districts. However the website lists them again (with different apids) on all districts. For simplicity we keep it that way, meaning one always has to select a district.
 
-Example data is provides in `data/*-2022.json`. This data got grabbed on 11.06.2022.
+Example data is provides in [data](data). This data got grabbed on 11.06.2022.
