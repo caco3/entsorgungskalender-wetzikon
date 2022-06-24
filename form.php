@@ -1,4 +1,5 @@
 <head>
+    <title>Smarter Entsorgungskalender f&uuml;r Wetzikon</title>
     <link type="image/x-icon" rel="shortcut icon" href="https://www.wetzikon.ch/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
@@ -28,8 +29,8 @@
         <?php } ?>
         
 
-        <p><br></p>
-    <input type="submit" value="Weiter">
+        <p></p>
+    <input type="submit" value="Weiter" class="button">
         
     </form>
 </body>

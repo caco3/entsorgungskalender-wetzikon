@@ -1,4 +1,5 @@
 <head>
+    <title>Smarter Entsorgungskalender f&uuml;r Wetzikon</title>
     <link type="image/x-icon" rel="shortcut icon" href="https://www.wetzikon.ch/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
@@ -93,6 +94,11 @@
     }
     catch (Exception $e) {
         echo("<p>Es ist ein Problem aufgetreten: <b>" . $e->getMessage() . "</b></p>");
+    ?>
+    <form>
+        <input type="button" value="Zurück" class=button onclick="history.back()">
+    </form>
+    <?php
         exit();
     }
     ?>
@@ -113,7 +119,12 @@
 
 
     <h2>Anleitung zum abonnieren des pers&ouml;nlichen Entsorgungskalender</h2>
-    <p>xxx</p>
+    <ul>
+        <li><p><a href=https://support.microsoft.com/de-de/office/importieren-oder-abonnieren-eines-kalenders-in-outlook-im-web-503ffaf6-7b86-44fe-8dd6-8099d95f38df target=_blank>Microsoft Outlook</a></p></li>
+        <li><p><a href=https://support.apple.com/de-ch/guide/calendar/icl1022/mac target=_blank>Mac</a></p></li>
+        <li><p><a href=https://support.google.com/calendar/answer/37100 target=_blank>Google</a></p></li>
+        <li><p><a href=https://support.mozilla.org/de/kb/neue-kalender-erstellen#w_icalendar-ics target=_blank>Thunderbird</a></p></li>
+    </ul>
 
 
 
@@ -123,5 +134,6 @@
         src="https://open-web-calendar.herokuapp.com/calendar.html?language=de&tabs=month&tabs=agenda&url=<?php echo(get_preview_url(get_ics_url($input))); ?>"
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         allowTransparency="true" scrolling="no" 
-        frameborder="0" height="400px" width="800px"></iframe>
+        frameborder="0" height="400px" width="100%"></iframe>
+    <p>Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
 </body>

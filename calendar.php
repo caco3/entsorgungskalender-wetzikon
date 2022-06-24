@@ -29,15 +29,15 @@
             $district = "Kreis " . $_GET["district"];
         }
         else {
-            throw new Exception('Invalid district data!');
+                throw new Exception('Ung&uuml;ltiger Kreis ausgew&auml;hlt!');
         }
     }
     else {
-        throw new Exception('No district given!');
+        throw new Exception('Kein Kreis ausgewählt!');
     }
     
     if ($district == null) {
-        throw new Exception('District not valid!');
+            throw new Exception('Ung&uuml;ltiger Kreis ausgew&auml;hlt!');
     }
 
     
@@ -50,16 +50,17 @@
                 array_push($categories, $c);
             }
             else {
-                throw new Exception("Categories not valid ('$c' is unknown)!");
+            // Disabled exception dueto disables "Biogene Abfälle"
+//                 throw new Exception("Categories not valid ('$c' is unknown)!");
             }
         }
     }
     else {
-        throw new Exception('No categories given!');
+        throw new Exception('Keine Kategorie ausgewählt!');
     }
     
     if ($categories == []) {
-        throw new Exception('Categories not valid!');
+        throw new Exception('Keine Kategorie ausgewählt!');
     }
     
     
