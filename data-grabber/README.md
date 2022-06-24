@@ -2,6 +2,7 @@
 This tool got created on the first [Smart City-Hackathon of Wetzikon, Switzerland](https://smart-city-wetzikon.ch/hackathon-2/).
 
 Public Data: https://wetzikon.ch/verwaltung/entsorgung resp. https://m.wetzikon.ch/index.php?apid=7215088
+
 A nice events overview is available on https://wetzikon.ch/verwaltung/entsorgung/02_GzD_Entsorgungskalender_2022_A3_Stadt_Wetzikon.pdf/at_download/file
 
 provided tools:
