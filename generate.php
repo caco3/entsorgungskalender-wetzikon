@@ -135,9 +135,12 @@
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         allowTransparency="true" scrolling="no" 
         frameborder="0" height="400px" width="100%"></iframe>
-    <p>Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
 
+    <p></p>
     <form>
         <input type="button" value="Zurück" class=button onclick="history.back()">
     </form>
+    <hr>
+    <p>Copyright &copy; 2022 by <a href=mailto:george@ruinelli.ch?subject=Entsorgungskalender>George Ruinelli</a><br>
+    Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
 </body>

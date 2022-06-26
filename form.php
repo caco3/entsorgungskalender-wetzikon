@@ -33,4 +33,6 @@
     <input type="submit" value="Weiter" class="button">
         
     </form>
+    <hr>
+    <p>Copyright &copy; 2022 by <a href=mailto:george@ruinelli.ch?subject=Entsorgungskalender>George Ruinelli</a></p>
 </body>
