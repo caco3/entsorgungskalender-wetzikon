@@ -27,8 +27,8 @@
         <?php foreach($available_categories as $c) { ?>
             <input type="checkbox" id="<?php echo($c); ?>" name="<?php echo($c); ?>" value="1"><label for="<?php echo($c); ?>"><?php echo($c); ?></label><br>
         <?php } ?>
-        
 
+        <p><b>Hinweis:</b> "Biogene Abf&auml;lle" sind z.Z. nicht unterstützt!</p>
         <p></p>
     <input type="submit" value="Weiter" class="button">
         
