@@ -80,7 +80,7 @@
         // TODO generate url
         $encoded_ics_url = urlencode("https://smarter-entsorgungskalender-wetzikon.ruinelli.ch/" . $ics_url);
     
-    //     return "https://open-web-calendar.herokuapp.com/calendar.html?language=de&url=$ics_url";
+    //     return "https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=de&url=$ics_url";
         return $encoded_ics_url;
     }
 
@@ -131,7 +131,7 @@
     <h2>Vorschau</h2>
     <iframe id="open-web-calendar" 
         style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-        src="https://open-web-calendar.herokuapp.com/calendar.html?language=de&tabs=month&tabs=agenda&url=<?php echo(get_preview_url(get_ics_url($input))); ?>"
+        src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=de&tabs=month&tabs=agenda&url=<?php echo(get_preview_url(get_ics_url($input))); ?>"
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         allowTransparency="true" scrolling="no" 
         frameborder="0" height="400px" width="100%"></iframe>
