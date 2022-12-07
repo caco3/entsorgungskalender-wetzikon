@@ -15,8 +15,10 @@ importFile = "data/apids.json"
 exportFile = "data/database.json"
 
 
+logLevel = logging.INFO
+#logLevel = logging.DEBUG
 
-logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
+logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logLevel)
 
 
 logging.info("imported apids from %r" % importFile)
