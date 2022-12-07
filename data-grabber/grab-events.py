@@ -36,13 +36,17 @@ for district in database:
         database[district]["categories"][category]["events"] = []
         for link in soup.find_all('a'):
             if "/appl/ics.php?apid=" in str(link.get('href')) and "icalLink" in str(link):
-                urlIcs = link.get('href')
-                date = link.string.strip()
-                logging.debug("Event in %r/%r: %r" % (district, category, date))
+                if link.string == None:
+                    logging.error("link.string is None!")
+                else:
+                    urlIcs = link.get('href')
+                    date = link.string.strip()
+                    logging.debug("Event in %r/%r: %r" % (district, category, date))
 
-                ics = requests.get(domain + "/" + urlIcs).text
-                vevent = "BEGIN:VEVENT" + ics.split("BEGIN:VEVENT")[1].split("END:VEVENT")[0] + "END:VEVENT" # We only want to store the VEVENT part, therefore need to drop the VCALENDAR part
-                database[district]["categories"][category]["events"].append({ "date": date, "vevent": vevent})
+                    ics = requests.get(domain + "/" + urlIcs).text
+                    vevent = "BEGIN:VEVENT" + ics.split("BEGIN:VEVENT")[1].split("END:VEVENT")[0] + "END:VEVENT" # We only want to store the VEVENT part, therefore need to drop the VCALENDAR part
+                    database[district]["categories"][category]["events"].append({ "date": date, "vevent": vevent})
+
             # break # Testing
         # break # Testing
     # break # Testing
