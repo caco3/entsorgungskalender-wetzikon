@@ -114,6 +114,7 @@
 
     <p>Laden Sie sich ihren pers&ouml;nlichen Entsorgungskalender &uuml;ber den nachfolgenden Link herunter oder abonnieren Sie ihn: 
     <a href="<?php echo(get_ics_url($input)); ?>" target=_blank>Pers&ouml;nlicher Entsorgungskalender</a>.</p>
+    <p>Jeder Termin hat eine Erinnerung 1 Tag und 7 Tage vor dem Termin.</p>
 
 
 

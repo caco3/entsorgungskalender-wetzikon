@@ -16,7 +16,6 @@
  include("common.php");
  
  
- 
  function parse_input() {
     global $max_district_id, $available_categories;
     $district = null;
@@ -50,7 +49,7 @@
                 array_push($categories, $c);
             }
             else {
-            // Disabled exception dueto disables "Biogene Abfälle"
+            // Disabled exception due to disables "Biogene Abfälle"
 //                 throw new Exception("Categories not valid ('$c' is unknown)!");
             }
         }
@@ -90,6 +89,10 @@
     
     /* All data in district */
     $district_data = $data[$input["district"]]["categories"];
+        
+
+    $reminder1d = "BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER:-P1D\nDESCRIPTION:Entsorgungserinnerung!\nEND:VALARM";
+    $reminder7d = "BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER:-P7D\nDESCRIPTION:Entsorgungserinnerung!\nEND:VALARM";
     
     
     foreach ($district_data as $category => $category_data) { // Each category
@@ -107,6 +110,8 @@
                 
                 /* adjust some data */
                 $eventData = str_replace($input["district"] . "\\, ", "", $eventData); // Remove "Kreis 1\,"
+                
+                $eventData = str_replace("END:VEVENT", "$reminder1d\n$reminder7d\nEND:VEVENT", $eventData);  // Add reminders
                 
                 /* Append to calendar */
                 $ics .= $eventData . "\n";
