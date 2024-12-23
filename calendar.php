@@ -16,7 +16,6 @@
  include("common.php");
  
  
- 
  function parse_input() {
     global $max_district_id, $available_categories;
     $district = null;
@@ -50,7 +49,7 @@
                 array_push($categories, $c);
             }
             else {
-            // Disabled exception dueto disables "Biogene Abfälle"
+            // Disabled exception due to disables "Biogene Abfälle"
 //                 throw new Exception("Categories not valid ('$c' is unknown)!");
             }
         }
@@ -90,6 +89,10 @@
     
     /* All data in district */
     $district_data = $data[$input["district"]]["categories"];
+        
+
+    $reminder1d = "BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER:-P1D\nDESCRIPTION:Entsorgungserinnerung!\nEND:VALARM";
+    $reminder7d = "BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER:-P7D\nDESCRIPTION:Entsorgungserinnerung!\nEND:VALARM";
     
     
     foreach ($district_data as $category => $category_data) { // Each category
@@ -106,10 +109,23 @@
                 $eventData = $event["vevent"];
                 
                 /* adjust some data */
-                $eventData = str_replace($input["district"] . "\\, ", "", $eventData); // Remove "Kreis 1\,"
+                $eventData = str_replace($input["district"] . "\\, ", "", $eventData); // Remove "\,"
+                
+                
+                $arr = explode("\n", $eventData);
+                foreach($arr as &$line) {
+                    $line = str_replace("\\", "", $line); // Remove "\,"
+                    $line = implode("\n ", str_split($line, 74)); // Split lines in 75 character chunks, due to stupid RFC 5545 3.1. requirement
+                }
+                
+                $eventData = implode("\n", $arr);
+                
+                $eventData = str_replace("END:VEVENT", "$reminder1d\n$reminder7d\nEND:VEVENT", $eventData);  // Add reminders
+                
+//                 echo($eventData);
                 
                 /* Append to calendar */
-                $ics .= $eventData . "\n";
+                $ics .= $eventData . "\r\n";
                 
 //                 echo("## event\n\n\n");
             }
@@ -126,6 +142,9 @@
     $ics = $ics_header . "\n" . $ics . $ics_footer;
     
       
+    // Make sure every line is terminated with CRLF
+    $ics = str_replace("\r\n", "\n", $ics);
+    $ics = str_replace("\n", "\r\n", $ics);
     
      /* RFC 5545 expects CRLF, see chapter 3.1. Content Lines */
      // TODO there is still an error: Lines not delimited by CRLF sequence near line # 1

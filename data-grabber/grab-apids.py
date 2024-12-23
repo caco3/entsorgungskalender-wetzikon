@@ -17,7 +17,12 @@ categories = ["Abfall", "Biogene Abfälle", "Karton", "Häckseldienst", "Grubeng
 
 exportFile = "data/apids.json"
 
-logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
+
+
+logLevel = logging.INFO
+#logLevel = logging.DEBUG
+
+logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logLevel)
 
 
 database = {}

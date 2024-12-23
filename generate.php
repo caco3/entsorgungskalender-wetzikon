@@ -80,7 +80,7 @@
         // TODO generate url
         $encoded_ics_url = urlencode("https://smarter-entsorgungskalender-wetzikon.ruinelli.ch/" . $ics_url);
     
-    //     return "https://open-web-calendar.herokuapp.com/calendar.html?language=de&url=$ics_url";
+    //     return "https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=de&url=$ics_url";
         return $encoded_ics_url;
     }
 
@@ -114,6 +114,7 @@
 
     <p>Laden Sie sich ihren pers&ouml;nlichen Entsorgungskalender &uuml;ber den nachfolgenden Link herunter oder abonnieren Sie ihn: 
     <a href="<?php echo(get_ics_url($input)); ?>" target=_blank>Pers&ouml;nlicher Entsorgungskalender</a>.</p>
+    <p>Jeder Termin hat eine Erinnerung 1 Tag und 7 Tage vor dem Termin.</p>
 
 
 
@@ -131,13 +132,16 @@
     <h2>Vorschau</h2>
     <iframe id="open-web-calendar" 
         style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-        src="https://open-web-calendar.herokuapp.com/calendar.html?language=de&tabs=month&tabs=agenda&url=<?php echo(get_preview_url(get_ics_url($input))); ?>"
+        src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=de&tabs=month&tabs=agenda&url=<?php echo(get_preview_url(get_ics_url($input))); ?>"
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         allowTransparency="true" scrolling="no" 
         frameborder="0" height="400px" width="100%"></iframe>
-    <p>Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
 
+    <p></p>
     <form>
         <input type="button" value="Zurück" class=button onclick="history.back()">
     </form>
+    <hr>
+    <p>Copyright &copy; 2022 by <a href=mailto:george@ruinelli.ch?subject=Entsorgungskalender>George Ruinelli</a><br>
+    Visualisierung &copy; by <a href=https://github.com/niccokunzmann/open-web-calendar target=_blank>open-web-calendar</a>.</p>
 </body>
